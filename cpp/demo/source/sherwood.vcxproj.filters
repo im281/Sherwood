@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="CommandLineParser.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="dibCodec.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="PlotCanvas.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="DensityEstimation.cpp">
+      <Filter>Usage Examples\Density Estimation</Filter>
+    </ClCompile>
+    <ClCompile Include="FloydWarshall.cpp">
+      <Filter>Usage Examples\Semi-supervised Classification</Filter>
+    </ClCompile>
+    <ClCompile Include="Regression.cpp">
+      <Filter>Usage Examples\Regression</Filter>
+    </ClCompile>
+    <ClCompile Include="StatisticsAggregators.cpp">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="CumulativeNormalDistribution.cpp">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="DataPointCollection.cpp">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="SemiSupervisedClassification.cpp">
+      <Filter>Usage Examples\Semi-supervised Classification</Filter>
+    </ClCompile>
+    <ClCompile Include="Classification.cpp">
+      <Filter>Usage Examples\Classification</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="FeatureResponseFunctions.cpp">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dibCodec.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandLineParser.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="PlotCanvas.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Classification.h">
+      <Filter>Usage Examples\Classification</Filter>
+    </ClInclude>
+    <ClInclude Include="DensityEstimation.h">
+      <Filter>Usage Examples\Density Estimation</Filter>
+    </ClInclude>
+    <ClInclude Include="FloydWarshall.h">
+      <Filter>Usage Examples\Semi-supervised Classification</Filter>
+    </ClInclude>
+    <ClInclude Include="Regression.h">
+      <Filter>Usage Examples\Regression</Filter>
+    </ClInclude>
+    <ClInclude Include="StatisticsAggregators.h">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="DataPointCollection.h">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="CumulativeNormalDistribution.h">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="SemiSupervisedClassification.h">
+      <Filter>Usage Examples\Semi-supervised Classification</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Forest.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\ForestTrainer.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Interfaces.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Node.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Random.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Sherwood.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\ThreadSafeRandom.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\Tree.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\ProgressStream.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\TrainingParameters.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="FeatureResponseFunctions.h">
+      <Filter>Usage Examples\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\ParallelForestTrainer.h">
+      <Filter>Sherwood Framework Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sherwood Framework Classes">
+      <UniqueIdentifier>{30d4732b-5361-4a97-bea5-9ac2343aba60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples">
+      <UniqueIdentifier>{f8632aa9-49ff-4ff7-92bf-3221a0f08492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{06e689fe-7f86-4480-81b6-4f9d143e2873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples\Classification">
+      <UniqueIdentifier>{95a22d39-9c77-4d5c-8750-787b87157bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples\Regression">
+      <UniqueIdentifier>{d32a43ef-a627-4f44-8439-7f225602bd28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples\Semi-supervised Classification">
+      <UniqueIdentifier>{6965bc11-db52-418e-affb-6790b6e4c722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples\Density Estimation">
+      <UniqueIdentifier>{1cf04f0f-e99f-40da-986f-9fc3587b87c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usage Examples\Shared">
+      <UniqueIdentifier>{ade0d5e0-4ef0-443d-af3a-eb9fe0aa9ae6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\lib\ReadMe.txt">
+      <Filter>Sherwood Framework Classes</Filter>
+    </None>
+    <None Include="..\ReadMe.txt" />
+  </ItemGroup>
+</Project>
