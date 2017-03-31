@@ -1,0 +1,4 @@
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\lib\bin\Debug\Sherwood.dll
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\lib\obj\Debug\Sherwood.dll
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\lib\obj\Debug\Sherwood.pdb
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\lib\bin\Debug\Sherwood.pdb

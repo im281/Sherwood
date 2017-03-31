@@ -1,1 +1,56 @@
 C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\sw.exe.config
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp1.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp3.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp5.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp6.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\density estimation\exp7.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp1.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp10.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp11.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp3.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp5.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp6.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp7.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp8.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\regression\exp9.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp1.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp10.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp11.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp12.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp3.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp5.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp6.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp7.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp8.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\semi-supervised classification\exp9.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp1_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp1_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp2_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp2_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp3_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp3_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp4_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp4_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp5_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp5_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp6_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp6_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp7_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp7_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp8_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp8_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp9_n2.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\data\supervised classification\exp9_n4.txt
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\sw.exe
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\sw.pdb
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\Sherwood.dll
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\bin\Debug\Sherwood.pdb
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\obj\Debug\sw.exe
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\Demo\obj\Debug\sw.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\bin\Debug\SparkCLR.exe.config
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\bin\Debug\SparkCLR.exe
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\bin\Debug\SparkCLR.pdb
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\obj\Debug\SparkCLR.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\obj\Debug\SparkCLR.exe
+C:\Users\Owner\OneDrive\Source\Repos\Sherwood\csharp\demo\SparkCLR\obj\Debug\SparkCLR.pdb
